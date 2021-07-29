@@ -1,7 +1,7 @@
 var questions = 
 [
     {
-      title: "Commonly used data types DO NOT include:",
+      title: "Commonly used data types do NOT include:",
       choices: ["strings", "booleans", "alerts", "numbers"],
       answer: "alerts"
     },
@@ -12,12 +12,7 @@ var questions =
     },
     {
       title: "Arrays in JavaScript can be used to store ____.",
-      choices: [
-        "numbers and strings",
-        "other arrays",
-        "booleans",
-        "all of the above"
-      ],
+      choices: ["numbers and strings", "other arrays","booleans","all of the above"],
       answer: "all of the above"
     },
     {
